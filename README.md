@@ -1,0 +1,4 @@
+translate
+=========
+
+angular-translate implementation 
